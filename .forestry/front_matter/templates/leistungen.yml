@@ -1,6 +1,10 @@
 ---
 pages:
+- Leistungen/psychotherapie.md
 - Leistungen/_index.md
+- Leistungen/lebensberatung.md
+- Leistungen/coaching.md
+- Leistungen/achtsamkeit.md
 hide_body: false
 fields:
 - name: title
