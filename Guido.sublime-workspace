@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"auth",
+				"authUrl"
+			],
+			[
 				"box-",
 				"box-sizing"
 			],
@@ -510,69 +514,11 @@
 			[
 				"korre",
 				"$korrekturTemplate〔variable〕"
-			],
-			[
-				"korr",
-				"$korrekturTemplate〔variable〕"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "themes/Guido/layouts/_default/baseof.html",
-			"settings":
-			{
-				"buffer_size": 1279,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "themes/Guido/layouts/partials/menu.html",
-			"settings":
-			{
-				"buffer_size": 813,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "themes/Guido/layouts/_default/list.html",
-			"settings":
-			{
-				"buffer_size": 334,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config.yaml",
-			"settings":
-			{
-				"buffer_size": 293,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "themes/Guido/static/style.css",
-			"settings":
-			{
-				"buffer_size": 2194,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "themes/Guido/layouts/shortcodes/form-contact.html",
-			"settings":
-			{
-				"buffer_size": 559,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -990,23 +936,28 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ber/Code/Guido",
-		"/home/ber/Code/Guido/content",
-		"/home/ber/Code/Guido/content/leistungen",
-		"/home/ber/Code/Guido/layouts",
-		"/home/ber/Code/Guido/static",
-		"/home/ber/Code/Guido/static/images",
-		"/home/ber/Code/Guido/static/symbols",
-		"/home/ber/Code/Guido/themes",
-		"/home/ber/Code/Guido/themes/Guido",
-		"/home/ber/Code/Guido/themes/Guido/layouts",
-		"/home/ber/Code/Guido/themes/Guido/layouts/_default",
-		"/home/ber/Code/Guido/themes/Guido/layouts/partials",
-		"/home/ber/Code/Guido/themes/Guido/layouts/shortcodes",
-		"/home/ber/Code/Guido/themes/Guido/static"
+		"/home/ber/Code/Guido"
 	],
 	"file_history":
 	[
+		"/home/ber/Code/Guido/member.html",
+		"/home/ber/Code/Guido/memberAdd.html",
+		"/home/ber/Code/Guido/themes/Guido/static/style.css",
+		"/home/ber/Code/Guido/config.yaml",
+		"/home/ber/Code/Guido/themes/Guido/layouts/_default/list.html",
+		"/home/ber/Code/Guido/themes/Guido/layouts/partials/menu.html",
+		"/home/ber/Code/Guido/themes/Guido/layouts/_default/baseof.html",
+		"/home/ber/Code/Kompetenztest/media/standard.js",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/WinSchool_Grundschule_Klassenstufe 3 (mit Jahrgangsmischung) -SCHUELERDATEN_ANMELD.. (1).xml",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/WinSchool_Grundschule_Klassenstufe 3 (reine Klassen) _SCHUELERDATEN_ANMELDUNG 2017....xml",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/WinSchool_Gym mit Regelschulteil 6 +8 SCHUELERDATEN_ANMELDUNG_2017.xml",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/WinSchool_Regelschule_Klassenstufe 8 _SCHUELERDATEN_ANMELDUNG_2016.xml",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/WinSchool_Regelschule_Kalssenstufe 6 + 8 SCHUELERDATEN_ANMELDUNG_2017.xml",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/SCHUELERDATEN_ANMELDUNG_2016_primeline.xml",
+		"/mnt/KT/K-Tests 2017/! Anmeldung/Beispieldaten/SCHUELERDATEN_ANMELDUNG_2017_primeline.xml",
+		"/home/ber/Code/Guido/TODO",
+		"/home/ber/Code/Guido/content/über_mich.md",
+		"/home/ber/Code/Guido/themes/Guido/layouts/shortcodes/form-contact.html",
 		"/home/ber/Code/Guido/content/leistungen/lebensberatung.md",
 		"/home/ber/Code/Guido/archetypes",
 		"/home/ber/Code/Guido/content/leistungen/achtsamkeit.md",
@@ -1014,7 +965,6 @@
 		"/home/ber/Code/Guido/themes/Guido/layouts/_default/single.html",
 		"/home/ber/Code/Guido/content/kontakt.md",
 		"/home/ber/Code/Guido/themes/Guido/layouts/404.html",
-		"/home/ber/Code/Guido/themes/Guido/layouts/_default/list.html",
 		"/home/ber/Code/Guido/themes/Guido/layouts/index.html",
 		"/home/ber/Code/Guido/content/abrechnung.md",
 		"/home/ber/Code/Guido/static/symbols/arrow.svg",
@@ -1023,10 +973,8 @@
 		"/home/ber/Code/Guido/content/angebote/achtsamkeit.md",
 		"/home/ber/Code/Guido/themes/Guido/layouts/partials/menu2.html",
 		"/home/ber/Code/Guido/content/angebote/config.yaml",
-		"/home/ber/Code/Guido/config.yaml",
 		"/home/ber/Code/Guido/i18n/de-de.yml",
 		"/home/ber/Code/Guido/themes/Guido/theme.yaml",
-		"/home/ber/Code/Guido/themes/Guido/layouts/_default/baseof.html",
 		"/home/ber/Code/Guido/themes/test/layouts/_default/baseof.html",
 		"/home/ber/Code/Guido/themes/test/layouts/_default/single.html",
 		"/home/ber/Desktop/Guido/themes/test/layouts/404.html",
@@ -1119,22 +1067,7 @@
 		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iG659.corr.js",
 		"/home/ber/Code/Kompetenztest/media/wp_colt/onlinetest.js",
 		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iG835.corr.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iG677.corr.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iG671.corr.html",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iA529.html",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iA529.corr.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iA511_BY.corr.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iA517.corr.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/player/AufgabeAnzeigen.js",
-		"/home/ber/Desktop/Formdata.js",
-		"/home/ber/Code/Kompetenztest/media/standard.js",
-		"/home/ber/Code/Kompetenztest/FormdataGet.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/player/FormdataGet.js",
-		"/tmp/phantom.js",
-		"/home/ber/Code/Kompetenztest/servercfg/php-v8/index.php",
-		"/home/ber/Code/Kompetenztest/servercfg/php-v8/test.php",
-		"/home/ber/Code/Kompetenztest/servercfg/php-v8/aktuelleKorrekturen.js",
-		"/home/ber/Code/Kompetenztest/kt/online/assets/2017/EK8/iEL251_NRW.corr.js"
+		"/home/ber/Code/Kompetenztest/kt/online/assets/2016/DK8/iG677.corr.js"
 	],
 	"find":
 	{
@@ -1212,6 +1145,19 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"ACCESS_TOKEN",
+			"cipher",
+			"['",
+			"hidden",
+			"z",
+			"x",
+			"e",
+			"ACCESS_TOKEN",
+			"file",
+			"testADLDAPdomain",
+			"\n  'uni_jena_de",
+			"openldap_example_com",
+			"div",
 			"2.5%",
 			".7",
 			"10",
@@ -1326,20 +1272,7 @@
 			"correct.js",
 			"semiManual",
 			"semi",
-			"semiManual",
-			"semi",
-			"semiManual",
-			"manual",
-			"list",
-			"manualList",
-			"semiManual",
-			"beispiel",
-			" ",
-			"iA015014",
-			"htmlItemsUnique",
-			"var",
-			"4:",
-			"iA016014"
+			"semiManual"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1358,186 +1291,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "themes/Guido/layouts/_default/baseof.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1279,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								828,
-								828
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "themes/Guido/layouts/partials/menu.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 813,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								80,
-								80
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "themes/Guido/layouts/_default/list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								306,
-								306
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "config.yaml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 293,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								238,
-								238
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "themes/Guido/static/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2194,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2032,
-								2032
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1828.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "themes/Guido/layouts/shortcodes/form-contact.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 559,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								223,
-								223
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
