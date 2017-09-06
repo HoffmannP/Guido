@@ -1,8 +1,8 @@
-baseurl: http://hoffis-eck.de/Guido/
+baseurl: http://therapie-lindner.de/
 disableKinds: [taxonomy, taxonomyTerm, RSS, Sitemap]
 defaultContentLanguage:  de
 languageCode: de-de
-title: Sprechen mit Guido
+title: Therapie Lindner
 theme: Guido
 enableRobotsTXT: true
 pluralizelisttitles: false

@@ -1,7 +1,9 @@
 ---
 title: Achtsamkeit
 image: berge
-weight: 1
+menu:
+    leistungen:
+        weight: 10
 ---
 
 Augenblicke von Achtsamkeit kennen wir alle aus bestimmten Situationen, z.B. wenn wir beim Sport oder bei einer künstlerischen Tätigkeit „in Fluss kommen“ oder beim Betrachten eines Sonnenaufgangs usw. - also immer dann, wenn wir ganz bei einer Sache sind - ohne diese zu hinterfragen. In solchen Momenten sind wir eins mit dem Geschehen. Wir vergessen alles andere und fühlen und erleben was es heißt, im Einklang mit uns selbst und den Dingen um uns herum zu sein.

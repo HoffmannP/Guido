@@ -1,7 +1,9 @@
 ---
 title: Coaching
 image: stuhl
-weight: 2
+menu:
+    leistungen:
+        weight: 20
 ---
 
 Sie wissen genau, wohin es gehen soll, aber es fehlt etwas, der letzte Schliff, der letzte Anstoß.

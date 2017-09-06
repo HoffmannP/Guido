@@ -1,7 +1,9 @@
 ---
 title: Lebensberatung
 image: wald
-weight: 5
+menu:
+    leistungen:
+        weight: 50
 ---
 
 Wenn die innere Welt nicht mehr mit der äußeren Welt übereinstimmen, Sie das Gefühl haben, nicht hierher zu gehören, weist das auf eine beginnende oder fortgeschrittene Sinn-Krise hin. Als Mensch kommen wir im Laufe unseres Lebens immer an einen Punkt, an dem wir uns der Sinn-Frage stellen: „Wo komme ich her? Wer bin ich? Was mache ich hier? Was ist der Sinn des Lebens?“
