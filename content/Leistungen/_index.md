@@ -1,7 +1,8 @@
 ---
 title: Leistungen
 menu:
-    left:
-        weight: 20
+  left:
+    weight: 20
+
 ---
 Test

@@ -1,11 +1,14 @@
 baseurl: http://therapie-lindner.de/
-disableKinds: [taxonomy, taxonomyTerm, RSS, Sitemap]
+disableKinds:
+ - taxonomy
+ - taxonomyTerm
+ - RSS
+ - Sitemap
 defaultContentLanguage:  de
 languageCode: de-de
 title: Therapie Lindner
 theme: Guido
 enableRobotsTXT: true
 pluralizelisttitles: false
-
 params:
   image: fluss

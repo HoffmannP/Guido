@@ -1,10 +1,11 @@
 ---
 title: "Über mich"
+type: page
 menu:
-    left:
-        weight: 10
----
+  left:
+    weight: 10
 
+---
 <img src="../images/passbild.jpg" alt="Ich bin der Guido" title="Guido Lindner">
 
 * Das Licht der Welt erblickt 1971

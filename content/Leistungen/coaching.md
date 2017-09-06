@@ -5,7 +5,6 @@ menu:
     leistungen:
         weight: 20
 ---
-
 Sie wissen genau, wohin es gehen soll, aber es fehlt etwas, der letzte Schliff, der letzte Anstoß.
 Sie wissen, dass sich etwas verändern muss, aber Sie wissen noch nicht in welche Richtung.
 Sie wissen dass Sie unzufrieden sind, aber es gibt noch nichts, was diese innere Leere auszufüllen vermag.

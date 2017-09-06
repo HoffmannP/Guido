@@ -1,11 +1,10 @@
 ---
-title: "Psychotherapie"
+title: Psychotherapie
 image: stuhl
 menu:
     leistungen:
         weight: 40
 ---
-
 Psychotherapie bedeutet wörtlich übersetzt Behandlung der Seele beziehungsweise seelischer Probleme. Sie bietet Hilfe bei Störungen des Denkens, Fühlens, Erlebens und Handelns. Dazu zählen Ängste, Depressionen, Essstörungen, Süchte, Zwänge und psychosomatische Störungen. Letzteres bringt das enge Zusammenspiel zwischen der Psyche und dem Soma (Körper) zum Ausdruck.
 
 Eine enge Zusammenarbeit mit Ihrem Arzt ist Voraussetzung für eine erfolgreiche Behandlung. Diese fußt auf Methoden und Übungen, welche vielfach getestet und als wirksam bewertet wurden.
