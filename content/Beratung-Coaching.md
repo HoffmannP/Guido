@@ -1,7 +1,7 @@
 ---
 title: Beratung/Coaching
 type: page
-image: berge
+image: wald
 menu:
   left:
     weight: 20

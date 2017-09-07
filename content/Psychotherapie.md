@@ -1,6 +1,6 @@
 ---
 title: Psychotherapie
-type: page
+image: stuhl
 menu:
   left:
     weight: 10
