@@ -3,11 +3,11 @@ disableKinds:
  - taxonomy
  - taxonomyTerm
  - RSS
- - Sitemap
+ - sitemap
 defaultContentLanguage:  de
 languageCode: de-de
 title: Therapie Lindner
-theme: Guido
+theme: guido
 enableRobotsTXT: true
 pluralizelisttitles: false
 params:

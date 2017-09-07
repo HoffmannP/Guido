@@ -1,12 +1,11 @@
 ---
-title: "Über mich"
-type: page
+title: Über mich
 menu:
   left:
-    weight: 10
+    weight: 30
 
 ---
-<img src="../images/passbild.jpg" alt="Ich bin der Guido" title="Guido Lindner">
+![Portrait von Guido Lindner](../images/portrait.jpg "Guido Lindner")
 
 * Das Licht der Welt erblickt 1971
 * Aufgewachsen an der Nordseeküste
@@ -14,7 +13,7 @@ menu:
 * Studium der Psychologie (auf Diplom) währenddessen
     * Weiterbildung zum und Tätigkeit als Kommunikations-, Verhaltenstrainer und Coach
     * Kontinuierliche Mitarbeit am Institut für Klinische Psychologie
-* Auslandsaufenthalt in Korea
+* Auslandsaufenthalt in Korea:
     * Tätigkeit als Deutsch-Lehrer und Lernender
     * Schulung der Intuition und Meditation verschiedener Traditionen
 * Rückkehr nach Deutschland und zeitgleich

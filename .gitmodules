@@ -1,0 +1,3 @@
+[submodule "themes/guido"]
+	path = themes/guido
+	url = https://github.com/HoffmannP/GuidoHugoTheme

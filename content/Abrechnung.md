@@ -1,10 +1,5 @@
 ---
 title: Abrechnung von Therapiesitzungen
-type: page
-menu:
-  left:
-    weight: 30
-
 ---
 1. Privatversicherte
     Das Honorar für die Therapiesitzungen richtet sich nach der *Gebührenordung für Psychotherapeuten*, wobei zusätzliche Kosten für Testdiagnostik, Berichte an die Krankenkassen, o.Ä. anfallen können.
