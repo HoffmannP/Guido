@@ -1,7 +1,11 @@
 * {
     box-sizing: border-box;
 }
+html {
+    height: 100%;
+}
 body {
+    height: 100%;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     color: #252525;
@@ -12,6 +16,11 @@ body {
     --color3: #59fd7c;
     --color4: #5ffeda;
 }
+div.content {
+    min-height: 100%;
+    position: relative;
+}
+
 a {
     text-decoration: inherit;
     color: inherit;
@@ -27,7 +36,6 @@ article h1, article h2, article h3 {
 header {
     width: 100%;
     height: 250px;
-    border-bottom: 2px solid var(--color4);
 }
 header a {
     display: block;
@@ -74,7 +82,7 @@ main {
     background-color: #ffffff;
     margin-left: 20%;
     margin-right: 10%;
-    padding: 3em 2em 10em 2em;
+    padding: 3em 2em;
 }
 
 div.liste {
@@ -156,10 +164,11 @@ form textarea {
 
 /* Footer */
 footer {
-    margin-left: 20%;
-    margin-right: 10%;
+    height: 2em;
     width: 70%;
-    padding: 2em;
+    position: absolute;
+    bottom: 0;
+    left: 20%;
     text-align: center;
     font-size: 110%;
     color: var(--color1);
