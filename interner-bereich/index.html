@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Kontakt – Therapie Lindner</title>
+    <title>Interner Bereich – Therapie Lindner</title>
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="ROBOTS" content="INDEX, FOLLOW">
@@ -14,11 +14,10 @@
     <link href="https://fonts.googleapis.com/css?family=Bad+Script|Droid+Serif|Open+Sans" rel="stylesheet">
     <link href='http://therapie-lindner.de/style.css' rel='stylesheet' type="text/css" />
 
-    <meta property="og:title" content="Kontakt" />
-<meta property="og:description" content="Wichtige Ansprechpartner:
-Klinikum Burgenlandkreis, Humboldtstraße 31 in Naumburg Zentrale Notfallaufnahme des Klinikums (0 34 45 72 11 60)  Schreiben Sie mir eine Mail, ich antworte garantiert. reCaptcha registrieren    Name   E-Mail   Ihre Nachricht    " />
+    <meta property="og:title" content="Interner Bereich" />
+<meta property="og:description" content="    Password: Das Passwort ist falsch Es ist ein interner Fehler aufgetreten  Anmelden   Abmelden  MemberArea(&#39;form.member-area&#39;, &#34;M\/Bf\/ybRqTkH8nk8fo5zww==:3457580=:AAy5A3qK1Hho0Tzt0ADevuafyGknSzUDR40PGyP9P9ndGEZYPz5JzJcuSh2qLXEUXWLjru10mlVt4qnWlOwXyQphSJG1HaQy&#34;) " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://therapie-lindner.de/kontakt/" />
+<meta property="og:url" content="http://therapie-lindner.de/interner-bereich/" />
 
 
 
@@ -44,41 +43,25 @@ Klinikum Burgenlandkreis, Humboldtstraße 31 in Naumburg Zentrale Notfallaufnahm
     
 
 <article>
-    <h1>Kontakt</h1>
-    <p>Wichtige Ansprechpartner:</p>
-
-<pre><code>Klinikum Burgenlandkreis, Humboldtstraße 31 in Naumburg
-Zentrale Notfallaufnahme des Klinikums (0 34 45 72 11 60)
-</code></pre>
-
-<p>Schreiben Sie mir eine Mail, ich antworte garantiert.
-<form action="https://formspree.io/berengarlehr&#43;formspree@gmail.com" method="POST" role="form">
-
-    <h3 color="red">
-        <a href="https://www.google.com/recaptcha">
-            reCaptcha registrieren
-        </a>
-    </h3>
-
+    <h1>Interner Bereich</h1>
+    <script src="https://unpkg.com/dropbox/dist/Dropbox-sdk.min.js"></script>
+<script src="http://bitwiseshiftleft.github.io/sjcl/sjcl.js"></script>
+<script src="http://therapie-lindner.de/member.js"></script>
+<form class="member-area hidden">
     <label>
-        Name
-        <input type="text" id="name" name="name" required placeholder=" " aria-labelledby="name"/>
+        Password:
+        <input type="password" name="password">
+        <span class="error password hidden">Das Passwort ist falsch</span>
+        <span class="error internal hidden">Es ist ein interner Fehler aufgetreten</span>
     </label>
-
-    <label>
-        E-Mail
-        <input type="text" id="email" email="emailemail" required placeholder=" " aria-labelledby="email"/>
-    </label>
-
-    <label>
-        Ihre Nachricht
-        <textarea id="message" name="message" aria-labelledby="message"></textarea>
-    </label>
-
-    <input type="submit" value="Senden" />
-
+    <button class="dbx_login">Anmelden</button>
 </form>
-</p>
+<div class="member-area hidden">
+    <ul class="filelist"></ul>
+    <button>Abmelden</button>
+</div>
+<script>MemberArea('form.member-area', "M\/Bf\/ybRqTkH8nk8fo5zww==:3457580=:AAy5A3qK1Hho0Tzt0ADevuafyGknSzUDR40PGyP9P9ndGEZYPz5JzJcuSh2qLXEUXWLjru10mlVt4qnWlOwXyQphSJG1HaQy")</script>
+
 
 </article>
 

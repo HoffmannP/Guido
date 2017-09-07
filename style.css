@@ -74,7 +74,7 @@ main {
     background-color: #ffffff;
     margin-left: 20%;
     margin-right: 10%;
-    padding: 5em 2em 10em 2em;
+    padding: 3em 2em 10em 2em;
 }
 
 div.liste {
@@ -82,8 +82,17 @@ div.liste {
 }
 
 article h1 {
+    font-size: 1.7em;
     margin-top: 0;
     font-weight: normal;
+}
+article h2 {
+    font-size: 1.4em;
+    margin-top: 2.5em;
+    font-weight: normal;
+}
+article h2:first-of-type {
+    margin-top: 0;
 }
 article a {
     color: var(--color1);
@@ -99,7 +108,8 @@ article a[href]:before {
     margin-right: 2px;
     background-image: url("symbols/arrow.svg");
 }
-article a[href$=".pdf"]:before {
+article a[href$=".pdf"]:before,
+article a[href^="blob:"]:before {
     background-image: url("symbols/pdf.svg");
 }
 article a[rel="footnote"]:before, article a.footnote-return:before {
@@ -108,6 +118,10 @@ article a[rel="footnote"]:before, article a.footnote-return:before {
 article blockquote {
     margin-left: 2em;
     font-family: 'Bad Script', cursive;
+}
+article img {
+    display: block;
+    float: right;
 }
 
 a.teaser {
@@ -152,4 +166,34 @@ footer {
 }
 footer a:not(:last-child):after {
     content: " •";
+}
+
+div.backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    animate-name: darken;
+    animation-duration: 4s;
+}
+
+@darken {
+    0%  { background-color: rgba(0, 0, 0, 0); }
+    100% 0%  { background-color: rgba(0, 0, 0, .5); }
+}
+
+.member-area {
+    font-family: sans-serif;
+}
+.member-area .error {
+    color: red;
+    font-size: .8em;
+}
+
+.hidden {
+    display: none;
+}
+.blass {
+    opacity: .5;
 }
