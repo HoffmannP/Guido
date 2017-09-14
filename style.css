@@ -1,47 +1,69 @@
 * {
     box-sizing: border-box;
 }
+
 html {
     height: 100%;
 }
+
 body {
     height: 100%;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     color: #252525;
     font-size: 15px;
-    --kindablack: #2F2F2F;
-    --color1: #4434e2;
-    --color2: #584aec;
-    --color3: #59fd7c;
-    --color4: #5ffeda;
+    --color_gruen: #40FF00;
+    --color_blau: #FCF525;
+    --color_gelb: #2ECCFA;
 }
-div.content {
+
+.content {
     min-height: 100%;
     position: relative;
+    background-color: rgba(225, 245, 37, .25); /* var(--color_gelb) 25% opacity */
 }
 
 a {
     text-decoration: inherit;
     color: inherit;
 }
+
 article {
     font-family: 'Droid Serif', serif;
+    max-width: 62em;
 }
+
 article h1, article h2, article h3 {
     font-family: 'Open Sans', sans-serif;
+    color: var(--color_gelb);
 }
 
 /* Header */
 header {
     width: 100%;
     height: 250px;
+    position: fixed;
+    top: 0;
+    border-bottom: 1em solid var(--color_gruen);
 }
+
 header a {
     display: block;
     height: 100%;
 }
 
+header::before {
+    background-image: url("/images/Logo.min.svg");
+    background-repeat: no-repeat;
+    content:  "Guido Lindner";
+    margin-top: 6em;
+    margin-left: 5em;
+    display: block;
+    width: 13em;
+    height: 13em;
+    padding-top: 6.5em;
+    color: white;
+}
 
 /* Navigation */
 nav {
@@ -50,43 +72,55 @@ nav {
     left: 0;
     margin-top: calc(250px + 2em);
     margin-left: 2em;
+    width: 13em;
+    background: var(--color_gruen);
+    padding: 1em;
 }
+
 nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
+
 nav li {
-    color: var(--color1);
-    padding: 15px;
-    margin-bottom: 2px;
+    display: block;
+    padding: 1em;
+    border-width: 0;
     border-style: solid;
-    border-width: 2px 0 0 2px;
     border-color: transparent;
 }
-nav li:not(.sub):hover {
-    border-left-color: var(--color4);
-    border-top-color: var(--color4);
+
+nav li.active {
+    padding: 1em 1em 1em .75em;
+    border-left: .25em solid var(--color_blau);
 }
-nav li.sub {
-    padding: 0;
-    margin: -10px 0 10px 0;
+
+nav li:hover {
+    padding: 1em .75em .75em 1em;
+    border-width: 0 .25em .25em 0;
+    border-color: var(--color_gelb);
 }
-nav li.sub li {
-    padding: 10px 10px 10px 20px;
-    color: var(--color2);
+
+nav li.active:hover {
+    padding: 1em .75em .75em .75em;
+    border-width: 0 .25em .25em .25em;
+    border-color: var(--color_gelb);
+    border-left-color: var(--color_blau);
+}
+
+nav li a {
+    display: block;
+    height: 100%;
 }
 
 /* Main */
 main {
-    background-color: #ffffff;
-    margin-left: 20%;
-    margin-right: 10%;
-    padding: 3em 2em;
-}
-
-div.liste {
-    width: 100%;
+    /* background-color: #ffffff; */
+    padding-top: calc(250px + 2em);
+    padding-left: 20em;
+    padding-right: 5em;
+    padding-bottom: 7em;
 }
 
 article h1 {
@@ -94,20 +128,26 @@ article h1 {
     margin-top: 0;
     font-weight: normal;
 }
+
 article h2 {
     font-size: 1.4em;
     margin-top: 2.5em;
     font-weight: normal;
 }
+
 article h2:first-of-type {
     margin-top: 0;
 }
+
 article a {
-    color: var(--color1);
+    color: var(--color_gruen);
 }
+
 article a:hover {
-    background-color: var(--color4);
+    color: white;
+    background-color: var(--color_gruen);
 }
+
 article a[href]:before {
     content: "";
     display: inline-block;
@@ -116,39 +156,48 @@ article a[href]:before {
     margin-right: 2px;
     background-image: url("symbols/arrow.svg");
 }
-article a[href$=".pdf"]:before,
-article a[href^="blob:"]:before {
+
+article a[href$=".pdf"]:before, article a[href^="blob:"]:before {
     background-image: url("symbols/pdf.svg");
 }
+
 article a[rel="footnote"]:before, article a.footnote-return:before {
     content: none;
 }
+
+article p {
+    text-align: justify;
+}
+
 article blockquote {
     margin-left: 2em;
     font-family: 'Bad Script', cursive;
 }
-article img {
-    display: block;
-    float: right;
+
+article li {
+    line-height: 1.5em;
 }
 
-a.teaser {
-    display: block;
-    float: left;
-    width: calc(50% - 2em);
-    height: 250px;
-    margin: 0 2em 2em 0;
-    overflow: hidden;
+article .footnotes {
+    font-size: 0.8em;
 }
-a.teaser img {
-    width: 9.7em;
-    height: 9.7em;
+
+article .footnotes sup {
+    display: none;
+}
+
+.page6666c article img {
     display: block;
     float: left;
-    margin-right: .5em;
-    margin-bottom: .5em;
-    border-radius: 10em;
+    height: 24em;
+    margin-right: 1em;
+}
 
+.page57601 article img {
+    display: block;
+    position: relative;
+    top: -1em;
+    height: 20em;
 }
 
 /* Kontaktform */
@@ -156,6 +205,7 @@ form label {
     display: block;
     margin-bottom: 2em;
 }
+
 form textarea {
     display: block;
     width: 50%;
@@ -171,30 +221,18 @@ footer {
     left: 20%;
     text-align: center;
     font-size: 110%;
-    color: var(--color1);
+    color: var(--color_gruen);
 }
+
 footer a:not(:last-child):after {
     content: " •";
-}
-
-div.backdrop {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    animate-name: darken;
-    animation-duration: 4s;
-}
-
-@darken {
-    0%  { background-color: rgba(0, 0, 0, 0); }
-    100% 0%  { background-color: rgba(0, 0, 0, .5); }
+    color: black;
 }
 
 .member-area {
     font-family: sans-serif;
 }
+
 .member-area .error {
     color: red;
     font-size: .8em;
@@ -203,6 +241,82 @@ div.backdrop {
 .hidden {
     display: none;
 }
+
 .blass {
     opacity: .5;
+}
+
+@media (max-width: 58em) {
+    header {
+        height: 150px;
+    }
+    header::before {
+        margin-top: .7em;
+        margin-left: 2em;
+    }
+
+    nav {
+        margin-left: 0em;
+        margin-top: 150px;
+    }
+
+    main {
+        padding-top: calc(150px + 2em);
+        padding-left: 15em;
+        padding-right: 1em;
+        padding-bottom: 5em;
+    }
+}
+
+@media (max-width: 44em) {
+    header {
+        border-bottom-width: 0em;
+    }
+    header::before {
+        margin-top: 1em;
+        margin-left: 1em;
+    }
+
+    nav:before {
+        display: block;
+        margin-left: 1em;
+        content: "☰ Menü";
+        position: relative;
+        top: -0.25em;
+    }
+
+    nav {
+        position: fixed;
+        margin-top: 150px;
+        width: 100%;
+        padding: 1em 1em 2em 1em;
+        height: 0px;
+        overflow: hidden;
+    }
+
+    nav:hover {
+        height: auto;
+        padding-bottom: 1em;
+    }
+
+    main {
+        margin-top: calc(150px + 3em);
+        padding-top: 1em;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    article blockquote {
+        margin: 0 .5em;
+    }
+
+    .content article img {
+        display: block;
+        float: none;
+        margin: auto;
+    }
+
+    footer {
+        left: 15%;
+    }
 }
