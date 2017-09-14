@@ -8,10 +8,10 @@ menu:
     weight: 40
 
 ---
-Wichtige Ansprechpartner:
+Dipl.-Psych. Guido Lindner\
+Lindenring 20a\
+06618 Naumburg\
+Tel: 0152 538 10 697\
+Mail: therapie-lindner@posteo.hu
 
-    Klinikum Burgenlandkreis, Humboldtstraße 31 in Naumburg
-    Zentrale Notfallaufnahme des Klinikums (0 34 45 72 11 60)
-
-Schreiben Sie mir eine Mail, ich antworte garantiert.
-{{< form-contact email="berengarlehr+formspree@gmail.com" >}}
+{{< form-contact email="therapie-lindner@posteo.hu" >}}
