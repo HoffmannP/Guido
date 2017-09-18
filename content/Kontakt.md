@@ -15,7 +15,7 @@ Lindenring 20a
 Tel: 0152 538 10 697\
 E-Mail: {{< safemail >}}
 
-{{< form-contact token="B1TDY9hcb" captcha="6LewDTEUAAAAAAuuGrlrKnWQiQp6OVth0YGEAESW" >}}
+{{< form-contact token="B1TDY9hcb" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
 <br/><br/>
 <br/><br/>
 
