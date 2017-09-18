@@ -2,7 +2,7 @@
 title: Über mich
 menu:
   left:
-    weight: 30
+    weight: 10
 ---
 ![Portrait von Guido Lindner](../images/portrait.jpg "Guido Lindner")
 

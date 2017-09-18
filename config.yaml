@@ -11,4 +11,4 @@ theme: guido
 enableRobotsTXT: true
 pluralizelisttitles: false
 params:
-  image: fluss
+  image: roggen

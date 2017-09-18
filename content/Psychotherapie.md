@@ -1,11 +1,10 @@
 ---
 title: Psychotherapie
-image: stuhl
 menu:
   left:
-    weight: 10
+    weight: 20
 ---
-Hier finden Sie einen [Leitfaden zur Psychotherapie](https://www.kvb.de/fileadmin/kvb/dokumente/Patienten/Leitfaden-zur-Psychotherapie.pdf).
+Zur Frage „Was ist Psychotherapie?“ empfehle ich einen [Flyer der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)](http://www.dgvt.de/fileadmin/user_upload/Dokumente/Was_ist_Psychotherapie.pdf).
 
 ## Erstgespräch (1 Sitzung) ##
 
@@ -29,6 +28,3 @@ Für diesen Abschnitt stehen üblicherweise maximal vier Gesprächssitzungen zur
 Ich habe eine Ausbildung zum Verhaltenstherapeuten, d.h. im Mittelpunkt steht das im Moment gezeigte Verhalten, wozu auch das Denken im weiteren Sinne gehört. Auf Grundlage verschiedener Ansätze werden Sie mit bestimmten Übungen darin angeleitet, die Kontrolle und damit Freiheit in ihrem Leben wiederzuerlangen. Mein Schwerpunkt liegt dabei auf verhaltenstherapeutischen Ansätzen zu denen ich schema- und gestalttherapeutisch akzentuierte Übungen sowie Achtsamkeitsübungen einbaue.
 
 Das allgemeine Ziel ist, dass Sie lernen, Ihr Leben wieder ins Gleichgewicht zu bringen und sich der Welt und sich selbst zuzuwenden und anstelle von Rückzug und Vermeidung aktiv an der Gestaltung Ihres Lebens teilzunehmen.
-
-
-[Abrechnung von Therapiesitzungen]({{< relref "Abrechnung.md" >}})?

@@ -1,10 +1,8 @@
 ---
 title: Beratung/Coaching
-type: page
-image: wald
 menu:
   left:
-    weight: 20
+    weight: 30
 ---
 
 ## Lebensberatung ##
