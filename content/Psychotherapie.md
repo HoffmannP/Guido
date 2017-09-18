@@ -16,6 +16,7 @@ Zum anderen soll es uns ermöglichen, sich gegenseitig kennenzulernen und zu ent
 
 Entscheiden wir uns für die Aufnahme der Therapie gehen wir außerdem zusammen im Falle einer Krankenkassenabrechnung (Privat oder Gesetzlich) das Prozedere der Antragsstellung durch und ich gebe Ihnen entsprechende Dokumente mit. Per E-Mail würde ich Ihnen einen Fragebogen schicken, der Ihnen die Möglichkeit gibt, Teile Ihres Lebens zu konkreten Fragen zu betrachten und mir wichtige Informationen für die Therapie gibt.
 
+Für das Erstgespräch von 50 Minuten Dauer fällt ein Honorar von 50,- Euro an. Dieser Betrag wird in der Regel nicht erstattet.
 
 ## Probatorikphase (1-4 Sitzungen) ##
 

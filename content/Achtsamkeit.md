@@ -12,4 +12,6 @@ Achtsamkeit hat genau diese zwei Anteile: zum einen *das bewusste Erleben des ge
 
 Ein Training der Achtsamkeit will Ihnen die Freiheit wieder geben, selbst und ganz bewusst entscheiden zu können, ob Sie sich mit Vergangenheit oder Zukunft befassen oder sich ganz dem Moment widmen wollen. Dieses wird bewerkstelligt über verschiedene Übungen, die ich mit Ihnen bespreche, durchführe und die Sie zu Hause in eigener Regie weiterführen.
 
-[^1]: Aus "Der Elefant, der weinte" von Jodi Picoult, erschienen 2016 bei C. Bertelsmann
+Ein Achtsamkeitstraining findet in Gruppen von 6-12 Personen statt. Bei Interesse rufen Sie mich an oder schreiben Sie mir eine Mail. Die Kosten für die Teilnahme betragen für einen 8-Wöchigen Kurs zwischen 120,- und 200,- Euro, je nach Einkommenssituation. 
+
+[^1]: aus: Willigis Jäger: Die Welle ist das Meer. Herder-Spektrum

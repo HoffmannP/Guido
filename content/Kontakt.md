@@ -6,19 +6,21 @@ menu:
   foot:
     weight: 10
 ---
+# Wichtige Notfallnummern<br/>und -Adressen #
+
+{{< raw "<table><tr><td>" >}}
 Privatpraxis „Am Lindenring“
 
 Dipl.-Psych. Guido Lindner\
 Lindenring 20a
 
 06618 Naumburg\
-Tel: 0152 538 10 697\
+Tel: 0152 538 10 697 \
 E-Mail: {{< safemail >}}
 
 {{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
 
-<br>
-# Wichtige Notfallnummern und<br/>-Adressen #
+{{< raw "</td><td>" >}}
 
 * Zentrale Notrufnummer: 112
 * Ärztlicher Bereitschaftsdienst der Kassenärztlichen Vereinigung: 116117\
@@ -32,3 +34,5 @@ E-Mail: {{< safemail >}}
   Sprechzeiten:\
   Mo - Fr: 08:00 - 12:00 Uhr\
   13:00 - 16:00 Uhr
+
+{{< raw "</td></tr></table>" >}}

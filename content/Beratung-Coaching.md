@@ -35,7 +35,7 @@ Es gibt die Geschichte von den Affenfängern, die ohne irgendwelche Waffen oder 
 
 Ein Coaching nimmt Sie mit auf jene Reise zu sich selbst und führt sie wertschätzend dahin, ihr eigenes Potential und vorhandene Barrieren zu erkennen und hilft Ihnen, sich davon zu lösen.
 
-Jede Reise beginnt mit dem ersten Schritt.
+Das Honorar für eine Beratung / ein Coaching beträgt pro Sitzung von 50 Minuten 98,-Euro. Eine *Einzelberatungssitzung* (Coaching) ist eine individuelle Gesundheitsleistung und wird nicht von den Krankenkassen getragen. Ein berufliches Coaching kann steuerlich geltend gemacht werden.
 
 [^1]: aus Die Fabelhaften Heldentaten des weisen Narren Mulla Nasrudin
 
