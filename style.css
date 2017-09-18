@@ -200,13 +200,6 @@ form textarea {
     height: 10em;
 }
 
-form div.g-recaptcha > div {
-    width: 100% !important;
-}
-form iframe {
-    width: 100%;   
-}
-
 form input[type="submit"] {
     margin-top: 1em;
     background: white;
