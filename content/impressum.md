@@ -30,6 +30,6 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
 Die Veröffentlichungen auf diesen Seiten unterliegen dem deutschen Urheberrecht. Vervielfältigung, Bearbeitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der Zustimmung von Franka Möllmann-Hofmann. Downloads und Kopien dieser Seiten sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
 ## Bildnachweise ##
-* Foto [Grünes Roggenfeld im Frühling bei Sonnenschein](https://de.wikipedia.org/wiki/Datei:Roggenfeld_mit_Himmel.jpg): Gundalf / CC-BY-SA-2.5
+* Foto [Grünes Roggenfeld im Frühling bei Sonnenschein](https://de.wikipedia.org/wiki/Datei:Roggenfeld_mit_Himmel.jpg): Gundalf / CC-BY-SA-3.0
 * Foto Fenster des [Ronald McDonald Hundertwasser Haus Essen](https://commons.wikimedia.org/wiki/File:Ronald_McDonalds_house_in_Grugapark_(Essen)_5.jpg): [Matěj Baťha](https://commons.wikimedia.org/wiki/User:Jedudedek) / CC-BY-SA-2.5
-* Foto Portrait: Fotostudio Arlene Knipper, Jena
+* Foto Portrait: Fotostudio Ebenbild, Jena

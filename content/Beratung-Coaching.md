@@ -37,6 +37,6 @@ Ein Coaching nimmt Sie mit auf jene Reise zu sich selbst und fÃ¼hrt sie wertschÃ
 
 Jede Reise beginnt mit dem ersten Schritt.
 
-[^1]: Geschichten von Mullah Nasruddin
+[^1]: aus Die Fabelhaften Heldentaten des weisen Narren Mulla Nasrudin
 
 
