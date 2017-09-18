@@ -9,9 +9,10 @@ menu:
 * Ausbildung zum Heil-Erziehungs-Pfleger
 * Studium der Psychologie (auf Diplom)
 * Kommunikations-, Verhaltenstrainer und Coach
-* Therapieausbildung am Institut für Verhaltenstherapie in Thüringen
-* Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis
 * Durchführung von Achtsamkeits-Seminaren
+* Therapieausbildung am Institut für Verhaltenstherapie in Thüringen mit\
+  Zulassung zum Psychologischen Psychotherapeuten
+* Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis
 * Niederlassung in Privatpraxis
 
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und\

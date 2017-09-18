@@ -16,9 +16,8 @@ Tel: 0152 538 10 697\
 E-Mail: {{< safemail >}}
 
 {{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
-<br/><br/>
-<br/><br/>
 
+<br>
 # Wichtige Notfallnummern und<br/>-Adressen #
 
 * Zentrale Notrufnummer: 112
@@ -33,6 +32,3 @@ E-Mail: {{< safemail >}}
   Sprechzeiten:\
   Mo - Fr: 08:00 - 12:00 Uhr\
   13:00 - 16:00 Uhr
-
-<br/><br/>
-<br/><br/>
