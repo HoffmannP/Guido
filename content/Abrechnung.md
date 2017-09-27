@@ -6,8 +6,6 @@ menu:
     weight: 50
 
 ---
-[Honorarübersicht](/Honorarübersicht.pdf)
-
 ## Privatversicherte ##
 
 Das Honorar für die Therapiesitzungen richtet sich nach der [Gebührenordung für Psychotherapeuten (GOP)](https://www.hallesche.de/gop.pdf), wobei zusätzliche Kosten für Testdiagnostik, Berichte an die Krankenkassen, o.Ä. anfallen können. Private Krankenkassen erstatten in der Regel die Kosten für eine Psychotherapie. Im Einzelfall hängt es davon ab, was Sie vertraglich mit Ihrer Krankenkasse vereinbart haben. *Deshalb: Bitte klären Sie vor Beginn der Therapie, ob und in welchem Umfang (Kosten, Anzahl der Sitzungen) Ihre Krankenkasse eine Behandlung übernimmt.*
