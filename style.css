@@ -104,7 +104,7 @@ nav ul li a {
 }
 
 /* Main */
-div.main {
+main {
     padding-top: 280px;
     padding-left: 20em;
     padding-right: 5em;
@@ -329,7 +329,7 @@ footer a:hover {
     nav {
         margin-top: 80px;
     }
-    div.main {
+    main {
         padding-top: 80px;
     }
 }
@@ -343,7 +343,7 @@ footer a:hover {
         margin-top: 150px;
     }
 
-    div.main {
+    main {
         padding-top: 180px;
         padding-left: 15em;
         padding-right: 1em;
@@ -380,7 +380,7 @@ footer a:hover {
     nav {
         margin-top: 50px;
     }
-    div.main {
+    main {
         padding-top: 50px;
     }
 }
@@ -416,7 +416,7 @@ footer a:hover {
         padding-bottom: 1em;
     }
 
-    div.main {
+    main {
         margin-top: 195px;
         padding-top: 1em;
         padding-left: 1em;
@@ -445,7 +445,7 @@ footer a:hover {
     nav {
         margin-top: 50px;
     }
-    div.main {
+    main {
         margin-top: 95px;
     }
     nav ul li {
