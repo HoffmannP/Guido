@@ -2,7 +2,7 @@ const PASSWORD = 'Guido'
 
 // init()
 
-function init() {
+function init () {
   if (getCookie('underconstruction') != 'view') {
     document.body.style.display = 'none'
     window.setTimeout(entsperren, 1)
