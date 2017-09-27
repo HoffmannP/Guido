@@ -207,6 +207,10 @@ form input[type="submit"] {
     padding: .25em 3em;
 }
 
+iframe {
+    width: 100%
+}
+
 /* Footer */
 footer {
     height: 2em;
