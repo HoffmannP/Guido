@@ -267,13 +267,16 @@ footer a:hover {
 }
 
 /* page specific */
+/* willkommen */
 .page6666c article img {
     display: block;
     float: left;
     height: 24em;
     margin-right: 1em;
+    margin-bottom: 2em;
 }
 
+/* über mich */
 .page57601 article img {
     display: block;
     float: none;
@@ -281,6 +284,7 @@ footer a:hover {
     margin-right: 1em;
 }
 
+/* abrechnung */
 .pagead69c article h2:before {
     content: "➤ "
 }
@@ -288,6 +292,7 @@ footer a:hover {
     text-align: justify;
 }
 
+/* kontakt */
 .page8ac4f article h1,
 .page4f9a2 article h1 {
     width: 50%;
