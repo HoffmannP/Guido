@@ -104,7 +104,8 @@ nav ul li a {
 }
 
 /* Main */
-div.main {
+main {
+    display: block;
     padding-top: 280px;
     padding-left: 20em;
     padding-right: 5em;
