@@ -1,9 +1,11 @@
 const PASSWORD = 'Guido'
 
+/*
 if (getCookie('underconstruction') != 'view') {
   document.body.style.display = 'none'
   window.setTimeout(entsperren, 1)
 }
+*/
 
 function entsperren () {
   if (window.prompt('Passwort bitte:') == PASSWORD) {
