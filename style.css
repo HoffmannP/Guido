@@ -32,12 +32,13 @@ a {
     color: inherit;
 }
 
-div.article {
+article {
+    display: block;
     font-family: 'Droid Serif', serif;
     max-width: 62em;
 }
 
-div.article h1, div.article h2, div.article h3 {
+article h1, article h2, article h3 {
     font-family: 'Open Sans', sans-serif;
     color: #4f6733; /* var(--color-blau) */
 }
@@ -112,36 +113,36 @@ main {
     padding-bottom: 7em;
 }
 
-div.article h1 {
+article h1 {
     font-size: 1.7em;
     margin-top: 0;
     font-weight: normal;
 }
 
-div.article h2 {
+article h2 {
     font-size: 1.4em;
     font-weight: normal;
 }
 
-div.article h2:first-of-type {
+article h2:first-of-type {
     margin-top: 0;
 }
 
-div.article h3 {
+article h3 {
     font-size: 1em;
 }
 
-div.article a {
+article a {
     color: #4f6733; /* var(--color-blau) */
 }
 
-div.article a:hover {
+article a:hover {
     color: #f1e092; /* var(--color-gelb) */
     background-color: #4f6733; /* var(--color-blau) */
     border-radius: 5px;
 }
 
-div.article a[href]:before {
+article a[href]:before {
     content: "";
     display: inline-block;
     height: .8em;
@@ -150,37 +151,37 @@ div.article a[href]:before {
     background-image: url("symbols/arrow.svg");
 }
 
-div.article a[href$=".pdf"]:before, div.article a[href^="blob:"]:before {
+article a[href$=".pdf"]:before, article a[href^="blob:"]:before {
     background-image: url("symbols/pdf.svg");
 }
 
-div.article a[href^="mailto:"]:before {
+article a[href^="mailto:"]:before {
     content: "✉";
     background-image: none;
 }
 
-div.article a[rel="footnote"]:before, div.article a.footnote-return:before {
+article a[rel="footnote"]:before, article a.footnote-return:before {
     content: none;
 }
 
-div.article p {
+article p {
     text-align: justify;
 }
 
-div.article blockquote {
+article blockquote {
     margin-left: 2em;
     font-family: 'Kalam', cursive;
 }
 
-div.article li {
+article li {
     line-height: 1.5em;
 }
 
-div.article .footnotes {
+article .footnotes {
     font-size: 0.8em;
 }
 
-div.article .footnotes sup {
+article .footnotes sup {
     display: none;
 }
 
@@ -266,46 +267,46 @@ footer a:hover {
 }
 
 /* page specific */
-.page6666c div.article img {
+.page6666c article img {
     display: block;
     float: left;
     height: 24em;
     margin-right: 1em;
 }
 
-.page57601 div.article img {
+.page57601 article img {
     display: block;
     float: none;
     height: 20em;
     margin-right: 1em;
 }
 
-.pagead69c div.article h2:before {
+.pagead69c article h2:before {
     content: "➤ "
 }
-.pagead69c div.article li {
+.pagead69c article li {
     text-align: justify;
 }
 
-.page8ac4f div.article h1,
-.page4f9a2 div.article h1 {
+.page8ac4f article h1,
+.page4f9a2 article h1 {
     width: 50%;
     float: left;
 }
 
-.page8ac4f div.article td,
-.page4f9a2 div.article td {
+.page8ac4f article td,
+.page4f9a2 article td {
     width: 50%;
     vertical-align: top;
 }
 
-.page8ac4f div.article ul,
-.page4f9a2 div.article ul {
+.page8ac4f article ul,
+.page4f9a2 article ul {
     margin: 0;
 }
 
-.page8ac4f div.article li,
-.page4f9a2 div.article li {
+.page8ac4f article li,
+.page4f9a2 article li {
     margin-bottom: 1em;
 }
 
@@ -330,7 +331,7 @@ footer a:hover {
     nav {
         margin-top: 80px;
     }
-    div.main {
+    main {
         padding-top: 80px;
     }
 }
@@ -344,7 +345,7 @@ footer a:hover {
         margin-top: 150px;
     }
 
-    div.main {
+    main {
         padding-top: 180px;
         padding-left: 15em;
         padding-right: 1em;
@@ -363,13 +364,13 @@ footer a:hover {
         padding-right: .25em;
         padding-bottom: .25em;   
     }
-    .page8ac4f div.article td,
-    .page4f9a2 div.article td {
+    .page8ac4f article td,
+    .page4f9a2 article td {
         display: block;
         margin-bottom: 3em;
     }
-    .page8ac4f div.article h1:nth-of-type(2),
-    .page4f9a2 div.article h1:nth-of-type(2) {
+    .page8ac4f article h1:nth-of-type(2),
+    .page4f9a2 article h1:nth-of-type(2) {
         display: none;
     }
 }
@@ -381,7 +382,7 @@ footer a:hover {
     nav {
         margin-top: 50px;
     }
-    div.main {
+    main {
         padding-top: 50px;
     }
 }
@@ -417,18 +418,18 @@ footer a:hover {
         padding-bottom: 1em;
     }
 
-    div.main {
+    main {
         margin-top: 195px;
         padding-top: 1em;
         padding-left: 1em;
         padding-right: 1em;
     }
 
-    div.article blockquote {
+    article blockquote {
         margin: 0 .5em;
     }
 
-    .content div.article img {
+    .content article img {
         display: block;
         float: none;
         margin: auto;
@@ -446,7 +447,7 @@ footer a:hover {
     nav {
         margin-top: 50px;
     }
-    div.main {
+    main {
         margin-top: 95px;
     }
     nav ul li {
