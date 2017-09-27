@@ -5,7 +5,7 @@ menu:
   left:
     weight: 10
 ---
-![Portrait von Guido Lindner](../images/portrait.jpg "Guido Lindner")
+<img src="../images/portrait.jpg" alt="Portrait von Guido Lindner" title="Guido Lindner" width=213 height=320>
 
 * Ausbildung zum Heil-Erziehungs-Pfleger
 * Studium der Psychologie (auf Diplom)
