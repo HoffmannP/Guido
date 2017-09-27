@@ -1,7 +1,7 @@
 ---
 title: Willkommen
 ---
-![Willkommen](../images/willkommen.jpg "Guido Lindner")
+![Willkommen](../images/willkommen2.jpg "Guido Lindner")
 
 >Auch die längste Reise beginnt mit dem ersten Schritt. [^1]
 
