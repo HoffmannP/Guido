@@ -19,6 +19,7 @@ body {
     --color-gelb: #f1e092;
     --color-blau: #4f6733;
     */
+   background-color: #f1e092;
 }
 
 .content {
@@ -36,9 +37,10 @@ article {
     display: block;
     font-family: 'Droid Serif', serif;
     max-width: 62em;
+    column-count: 2;
 }
 
-article h1, article h2, article h3 {
+h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
     color: #4f6733; /* var(--color-blau) */
 }
@@ -49,8 +51,7 @@ header {
     height: 250px;
     position: fixed;
     top: 0;
-    border-bottom: 1em solid #95b25e; /* var(--color-gruen) */
-    background-position: center 80%;
+    background-position: left 80%;
 }
 
 header a {
@@ -66,7 +67,6 @@ nav {
     margin-top: 280px;
     margin-left: 2em;
     width: 13em;
-    background: #95b25e; /* var(--color-gruen) */
     padding: 1em;
 }
 
@@ -77,26 +77,15 @@ nav ul {
 }
 
 nav ul li {
-    display: block;
     padding: 1em;
-    border-width: 0;
-    border-style: solid;
-    border-color: transparent;
 }
 
 nav ul li.active {
-    padding-left: .75em;
-    border-left-width: .25em;
-    border-left-color: #f1e092; /* var(--color-gelb) */
+    color: #4f6733; /* var(--color-blau) */
 }
 
 nav ul li:hover {
-    padding-right: .75em;
-    padding-bottom: .75em;
-    border-right-width: .25em;
-    border-bottom-width: .25em;
-    border-right-color: #4f6733; /* var(--color-blau) */
-    border-bottom-color: #4f6733; /* var(--color-blau) */
+    color: #95b25e; /* var(--color-gruen) */
 }
 
 nav ul li a {
@@ -113,22 +102,22 @@ main {
     padding-bottom: 7em;
 }
 
-article h1 {
+h1 {
     font-size: 1.7em;
     margin-top: 0;
     font-weight: normal;
 }
 
-article h2 {
+h2 {
     font-size: 1.4em;
     font-weight: normal;
 }
 
-article h2:first-of-type {
+h2:first-of-type {
     margin-top: 0;
 }
 
-article h3 {
+h3 {
     font-size: 1em;
 }
 
@@ -164,17 +153,14 @@ article a[rel="footnote"]:before, article a.footnote-return:before {
     content: none;
 }
 
-article p {
-    text-align: justify;
-}
-
 article blockquote {
     margin-left: 2em;
     font-family: 'Kalam', cursive;
 }
 
 article li {
-    line-height: 1.5em;
+    line-height: 1.4em;
+    margin-bottom: .4em;
 }
 
 article .footnotes {
@@ -277,11 +263,16 @@ footer a:hover {
 }
 
 /* über mich */
-.page57601 article img {
+.pagec0097 article img {
     display: block;
-    float: none;
+    float: left;
     height: 20em;
     margin-right: 1em;
+    margin-bottom: 2em;
+}
+.pagec0097 article ul {
+    position: relative;
+    left: 1em;
 }
 
 /* abrechnung */
@@ -293,42 +284,34 @@ footer a:hover {
 }
 
 /* kontakt */
-.page8ac4f article h1,
-.page4f9a2 article h1 {
-    width: 50%;
-    float: left;
+.page8ac4f article,
+.page4f9a2 article {
+    column-count: 2;
+    column-gap: 3em;
+    position: relative;
+    top: -3.5em;
 }
 
-.page8ac4f article td,
-.page4f9a2 article td {
-    width: 50%;
-    vertical-align: top;
+h2#vielen-dank-für-ihre-nachricht {
+    padding: 4em 0 6em 0;
+}
+
+.page8ac4f article p:first-of-type,
+.page4f9a2 article p:first-of-type {
+    padding-top: 2.5em;
+}
+
+.page8ac4f article h1,
+.page4f9a2 article h1 {
+    margin-top: 2em;
 }
 
 .page8ac4f article ul,
 .page4f9a2 article ul {
-    margin: 0;
-}
-
-.page8ac4f article li,
-.page4f9a2 article li {
-    margin-bottom: 1em;
+    margin-left: -1em;
 }
 
 /* medium specific */
-@media (max-height: 45em) and (min-width: 58em) {
-    nav ul li {
-        padding: .5em;
-    }
-    nav ul li.active {
-        padding-left: .25em;
-    }
-    nav ul li:hover {
-        padding-right: .25em;
-        padding-bottom: .25em;
-    }
-}
-
 @media (max-height: 37em) and (min-width: 58em) {
     header {
         height: 50px;
@@ -350,33 +333,19 @@ footer a:hover {
         margin-top: 150px;
     }
 
+    .page8ac4f article,
+    .page4f9a2 article {
+        column-count: 1;
+    }
+    h2#vielen-dank-für-ihre-nachricht {
+        padding: 1em 0 0 0;
+    }
+
     main {
         padding-top: 180px;
         padding-left: 15em;
         padding-right: 1em;
         padding-bottom: 5em;
-    }
-}
-
-@media (max-width: 58em) and (max-height: 36em) {
-    nav ul li {
-        padding: .5em;
-    }
-    nav ul li.active {
-        padding-left: .25em;
-    }
-    nav ul li:hover {
-        padding-right: .25em;
-        padding-bottom: .25em;   
-    }
-    .page8ac4f article td,
-    .page4f9a2 article td {
-        display: block;
-        margin-bottom: 3em;
-    }
-    .page8ac4f article h1:nth-of-type(2),
-    .page4f9a2 article h1:nth-of-type(2) {
-        display: none;
     }
 }
 
@@ -411,6 +380,7 @@ footer a:hover {
 
     nav {
         position: fixed;
+        background: #95b25e; /* var(--color-gruen) */
         margin-top: 150px;
         width: 100%;
         padding: 1em 1em 2em 1em;
@@ -421,6 +391,14 @@ footer a:hover {
     nav:hover {
         height: auto;
         padding-bottom: 1em;
+    }
+
+    .page6666c article img {
+        height: auto;
+        width: 88vw;
+    }
+    .pagec0097 article ul {
+        left: -1.5em;
     }
 
     main {
@@ -441,7 +419,7 @@ footer a:hover {
     }
 
     footer {
-        left: 15%;
+        position: auto;
     }
 }
 
@@ -454,15 +432,5 @@ footer a:hover {
     }
     main {
         margin-top: 95px;
-    }
-    nav ul li {
-        padding: .5em;
-    }
-    nav ul li.active {
-        padding-left: .25em;
-    }
-    nav ul li:hover {
-        padding-right: .25em;
-        padding-bottom: .25em;
     }
 }
