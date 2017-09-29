@@ -6,9 +6,7 @@ menu:
   foot:
     weight: 10
 ---
-# Wichtige Notfallnummern<br/>und -Adressen #
 
-{{< raw "<table><tr><td>" >}}
 Privatpraxis „Am Lindenring“
 
 Dipl.-Psych. Guido Lindner\
@@ -20,7 +18,7 @@ E-Mail: {{< safemail >}}
 
 {{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
 
-{{< raw "</td><td>" >}}
+# Wichtige Notfallnummern<br>und -Adressen #
 
 * Zentrale Notrufnummer: 112
 * Ärztlicher Bereitschaftsdienst der Kassenärztlichen Vereinigung: 116117\
@@ -34,5 +32,3 @@ E-Mail: {{< safemail >}}
   Sprechzeiten:\
   Mo - Fr: 08:00 - 12:00 Uhr\
   13:00 - 16:00 Uhr
-
-{{< raw "</td></tr></table>" >}}

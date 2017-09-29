@@ -32,7 +32,6 @@ Die Veröffentlichungen auf diesen Seiten unterliegen dem deutschen Urheberrecht
 ## Bildnachweise ##
 * Foto [Grünes Roggenfeld im Frühling bei Sonnenschein](https://de.wikipedia.org/wiki/Datei:Roggenfeld_mit_Himmel.jpg): Gundalf / CC-BY-SA-3.0
 * Foto Fenster des [Ronald McDonald Hundertwasser Haus Essen](https://commons.wikimedia.org/wiki/File:Ronald_McDonalds_house_in_Grugapark_(Essen)_5.jpg): [Matěj Baťha](https://commons.wikimedia.org/wiki/User:Jedudedek) / CC-BY-SA-2.5
-* Foto Portrait: Fotostudio Ebenbild, Jena
 
 # Datenschutz #
 Sie können meine Website besuchen, ohne irgendwelche Angaben zu Ihrer Person zu machen. Wir selbst erheben keinerlei Daten, allerdings greifen wir auf das Angebot Dritter zurück, deren Datenschutzerklärungen finden Sie weiter unten. Personenbezogene Daten werden nur gespeichert, wenn Sie mir solche freiwillig, durch das Kontaktformular, mitteilen. Ich beachte die einschlägigen datenschutzrechtlichen Bestimmungen, insbesondere die Regelungen des Telemediengesetzes (TMG) und des Bundesdatenschutzgesetzes (BDSG).

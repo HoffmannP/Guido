@@ -8,17 +8,11 @@ Lindenring 20a
 
 06618 Naumburg\
 Tel: 0152 538 10 697\
-Mail: therapie-lindner@posteo.hu
+E-Mail: {{< safemail >}}
 
-<br/><br/>
-<br/><br/>
 ## Vielen Dank für Ihre Nachricht! ##
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
-
-# Wichtige Notfallnummern und<br/>-Adressen #
+# Wichtige Notfallnummern<br>und -Adressen #
 
 * Zentrale Notrufnummer: 112
 * Ärztlicher Bereitschaftsdienst der Kassenärztlichen Vereinigung: 116117\

@@ -5,7 +5,7 @@ menu:
   left:
     weight: 10
 ---
-<img src="../images/portrait.jpg" alt="Portrait von Guido Lindner" title="Guido Lindner" width=213 height=320>
+![Guido Lindner](../images/portrait.jpg "Portrait von Guido Lindner")
 
 * Ausbildung zum Heil-Erziehungs-Pfleger
 * Studium der Psychologie (auf Diplom)
@@ -13,8 +13,8 @@ menu:
 * Durchführung von Achtsamkeits-Seminaren
 * Therapieausbildung am Institut für Verhaltenstherapie in Thüringen mit\
   Zulassung zum Psychologischen Psychotherapeuten
-* Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis
-* Niederlassung in Privatpraxis
+* Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis in Jena
+* Niederlassung in Privatpraxis in Naumburg und Jena
 
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und\
 der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)
