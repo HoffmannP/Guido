@@ -1,7 +1,8 @@
 #!/bin/bash
 
-cd themes/guido
+cd themes/guido/static
 cleancss style.css > style.min.css
+cd ..
 git commit -a -m "$1"
 git push origin HEAD:master
 cd ..
