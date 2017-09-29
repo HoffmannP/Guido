@@ -37,7 +37,6 @@ article {
     display: block;
     font-family: 'Droid Serif', serif;
     max-width: 62em;
-    column-count: 2;
 }
 
 h1, h2, h3 {
