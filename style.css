@@ -275,10 +275,24 @@ footer a:hover {
 }
 
 /* abrechnung */
-.pagead69c article h2:before {
+.pagead69c article h2:before,
+.page62a57 article h2:before {
     content: "➤ "
 }
-.pagead69c article li {
+.pagead69c article a {
+    font-size: 1em;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bold;
+    color: #4f6733; /* var(--color-blau) */
+}
+.pagead69c article a:hover {
+    padding-right: .3em;
+    color: #f1e092; /* var(--color-gelb) */
+}
+.page62a57 article ol {
+    margin-left: -1.5em;
+}    
+.page62a57 article li {
     text-align: justify;
 }
 
