@@ -51,6 +51,7 @@ header {
     position: fixed;
     top: 0;
     background-position: left 80%;
+    z-index: 1;
 }
 
 header a {
@@ -67,6 +68,7 @@ nav {
     margin-left: 2em;
     width: 13em;
     padding: 1em;
+    z-index: 1;
 }
 
 nav ul {
