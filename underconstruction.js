@@ -1,6 +1,6 @@
 const PASSWORD = 'Guido'
 
-init()
+// init()
 
 function init () {
   if (getCookie('underconstruction') != 'view') {
