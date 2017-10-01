@@ -24,10 +24,10 @@ Psychologische Psychotherapeut (Thüringen)
 Diese entfällt, da psychotherapeutische Leistungen als Heilkunde nach §4 Nr. 14 UStG umsatzsteuerfrei sind.
 
 ## Haftung für Inhalte ##
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen. Die hier angebotenen Informationen stellen keine Beratung oder Psychotherapie dar, diese sind erst im persönlichen Kontakt zur Therapeutin möglich.
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen. Die hier angebotenen Informationen stellen keine Beratung oder Psychotherapie dar, diese sind erst im persönlichen Kontakt zum Therapeuten möglich.
 
 ## Urheberrecht/Verwertungsrechte ##
-Die Veröffentlichungen auf diesen Seiten unterliegen dem deutschen Urheberrecht. Vervielfältigung, Bearbeitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der Zustimmung von Franka Möllmann-Hofmann. Downloads und Kopien dieser Seiten sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+Die Veröffentlichungen auf diesen Seiten unterliegen dem deutschen Urheberrecht. Vervielfältigung, Bearbeitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der Zustimmung von Guido Lindner. Downloads und Kopien dieser Seiten sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
 ## Bildnachweise ##
 * Foto [Grünes Roggenfeld im Frühling bei Sonnenschein](https://de.wikipedia.org/wiki/Datei:Roggenfeld_mit_Himmel.jpg): Gundalf / CC-BY-SA-3.0
