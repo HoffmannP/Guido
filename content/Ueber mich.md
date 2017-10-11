@@ -12,7 +12,7 @@ menu:
 * Kommunikations-, Verhaltenstrainer und Coach
 * Durchführung von Achtsamkeits-Seminaren
 * Therapieausbildung am Institut für Verhaltenstherapie in Thüringen mit\
-  Zulassung zum Psychologischen Psychotherapeuten
+  Approbation zum Psychologischen Psychotherapeuten
 * Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis in Jena
 * Niederlassung in Privatpraxis in Naumburg und Jena
 

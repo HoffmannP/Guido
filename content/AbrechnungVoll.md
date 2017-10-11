@@ -26,5 +26,4 @@ Wie können Sie vorgehen?
 3. Schritt: **Psychotherapieantrag stellen**\
     Wenn alle Unterlagen beisammen sind, stellen wir nach einem Erstgespräch einen formlosen schriftlichen „Antrag auf Kostenerstattung für Psychotherapie“, in dem darauf verwiesen wird, dass zur Zeit in Ihrer Nähe kein Psychotherapiebeginn möglich ist, dass aber in meiner Praxis die Behandlung sofort beginnen kann.
     Die Behandlung beginnt, wenn Ihre Krankenkasse die Übernahme der Kosten zusichert. Sollten sie vorher Therapietermine wahrnehmen wollen ist dies natürlich möglich. Das Kostenrisiko liegt jedoch bei Ihnen.
-    Die Krankenkassen verhalten sich gegenüber dem Kosten&shy;erstattungs&shy;verfahrens bisweilen ablehnend. Bleiben Sie hartnäckig: Sie haben einen *Rechtsanspruch* auf Kosten&shy;erstattung (§13 Abs. 3 SGB V).
     Bei der Beantragung begleite ich Sie und stehe Ihnen stets für Fragen zur Verfügung.
