@@ -403,7 +403,15 @@ h2#vielen-dank-für-ihre-nachricht {
         overflow: hidden;
     }
 
-    nav:hover {
+    nav ul li:hover {
+        color: inherit; /* var(--color-blau) */
+    }
+
+    nav ul li.active {
+        color: #4f6733; /* var(--color-blau) */
+    }
+
+    nav.open {
         height: auto;
         padding-bottom: 1em;
     }
